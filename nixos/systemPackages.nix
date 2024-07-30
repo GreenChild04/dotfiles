@@ -44,6 +44,7 @@ pkgs: let
     thunderbird
     obs-studio
     gnome.cheese
+    monero-gui
   ];
 
   gui-editors = with pkgs; [
